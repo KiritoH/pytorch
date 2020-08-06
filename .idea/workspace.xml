@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fZDvWoRfh8OSPXtsZ2N8hdB2RA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,72 +27,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson/lesson-10" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../lesson/lesson-10" />
-      <recent name="$PROJECT_DIR$/../lesson" />
-      <recent name="$PROJECT_DIR$/../lesson/lesson-09" />
-      <recent name="$PROJECT_DIR$/../lesson/lesson-08" />
-      <recent name="$PROJECT_DIR$/../lesson/lesson-06" />
+      <recent name="$PROJECT_DIR$/lesson-10" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lesson-09" />
+      <recent name="$PROJECT_DIR$/lesson-08" />
+      <recent name="$PROJECT_DIR$/lesson-06" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../lesson/lesson-09" />
-      <recent name="$PROJECT_DIR$/../lesson" />
-      <recent name="$PROJECT_DIR$/../lesson/lesson-06/data" />
-      <recent name="$PROJECT_DIR$/../lesson/lesson-06" />
-      <recent name="$PROJECT_DIR$/../lesson/Hello_Pytorch" />
+      <recent name="$PROJECT_DIR$/lesson-09" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lesson-06/data" />
+      <recent name="$PROJECT_DIR$/lesson-06" />
+      <recent name="$PROJECT_DIR$/Hello_Pytorch" />
     </key>
   </component>
   <component name="RunManager" selected="Python.create_module">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="RMB_data_augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,34 +55,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lesson/lesson-09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lesson/lesson-09/RMB_data_augmentation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-09/RMB_data_augmentation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,12 +77,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lesson/lesson-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lesson/lesson-10/create_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-10/create_module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lesson/lesson-08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lesson/lesson-09/my_transform.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-09/my_transform.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lesson/lesson-08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-08" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lesson/lesson-08/transforms_methods_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-08/transforms_methods_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,77 +165,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../lesson/lesson-09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson-09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../lesson/lesson-09/transforms_methods_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson-09/transforms_methods_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="lesson" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
@@ -343,6 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596416951521</updated>
       <workItem from="1596416956528" duration="47699000" />
+      <workItem from="1596705493594" duration="55000" />
     </task>
     <servers />
   </component>
@@ -394,9 +272,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="805" height="368" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596704908373" />
-    <state x="397" y="210" key="SettingsEditor" timestamp="1596418171637">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="397" y="191" key="SettingsEditor" timestamp="1596705547876">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="397" y="191" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1596705547876" />
     <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1596418171637" />
     <state x="573" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1596416966690">
       <screen x="0" y="23" width="1792" height="1097" />
@@ -411,17 +290,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../lesson/lesson-05/lesson-05-Logistic-Regression.py</url>
+          <url>file://$PROJECT_DIR$/lesson-05/lesson-05-Logistic-Regression.py</url>
           <line>59</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../lesson/lesson-06/2_train_lenet.py</url>
+          <url>file://$PROJECT_DIR$/lesson-06/2_train_lenet.py</url>
           <line>94</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../lesson/lesson-10/create_module.py</url>
+          <url>file://$PROJECT_DIR$/lesson-10/create_module.py</url>
           <line>71</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
@@ -436,23 +315,23 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$transforms_methods_1.coverage" NAME="transforms_methods_1 Coverage Results" MODIFIED="1596671781217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-08" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_05_autograd.coverage" NAME="lesson-05-autograd Coverage Results" MODIFIED="1596583810279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-05" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_03.coverage" NAME="lesson-03 Coverage Results" MODIFIED="1596538368518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-03" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$2_train_lenet_catdog.coverage" NAME="2_train_lenet-catdog Coverage Results" MODIFIED="1596622730531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-06" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$2_train_lenet.coverage" NAME="2_train_lenet Coverage Results" MODIFIED="1596617695486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-06" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_03_Linear_Regression_Improve.coverage" NAME="lesson-03-Linear-Regression-Improve Coverage Results" MODIFIED="1596548987242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-03" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$create_module.coverage" NAME="create_module Coverage Results" MODIFIED="1596683869786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-10" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$hello_pytorch__1_.coverage" NAME="hello_pytorch (1) Coverage Results" MODIFIED="1596512553870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/Hello_Pytorch" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$RMB_data_augmentation.coverage" NAME="RMB_data_augmentation Coverage Results" MODIFIED="1596683422279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-09" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_01.coverage" NAME="lesson-01 Coverage Results" MODIFIED="1596512812663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-01" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$my_transform.coverage" NAME="my_transform Coverage Results" MODIFIED="1596680086244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-08" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$transforms_methods_1.coverage" NAME="transforms_methods_1 Coverage Results" MODIFIED="1596671781217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-08" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_05_autograd.coverage" NAME="lesson-05-autograd Coverage Results" MODIFIED="1596583810279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-05" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_03.coverage" NAME="lesson-03 Coverage Results" MODIFIED="1596538368518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-03" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$2_train_lenet_catdog.coverage" NAME="2_train_lenet-catdog Coverage Results" MODIFIED="1596622730531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-06" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$2_train_lenet.coverage" NAME="2_train_lenet Coverage Results" MODIFIED="1596617695486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-06" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_03_Linear_Regression_Improve.coverage" NAME="lesson-03-Linear-Regression-Improve Coverage Results" MODIFIED="1596548987242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-03" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$create_module.coverage" NAME="create_module Coverage Results" MODIFIED="1596683869786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-10" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$hello_pytorch__1_.coverage" NAME="hello_pytorch (1) Coverage Results" MODIFIED="1596512553870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hello_Pytorch" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$RMB_data_augmentation.coverage" NAME="RMB_data_augmentation Coverage Results" MODIFIED="1596683422279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-09" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_01.coverage" NAME="lesson-01 Coverage Results" MODIFIED="1596512812663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-01" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$my_transform.coverage" NAME="my_transform Coverage Results" MODIFIED="1596680086244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-08" />
     <SUITE FILE_PATH="coverage/Hello_Pytorch$hello_pytorch.coverage" NAME="hello_pytorch Coverage Results" MODIFIED="1596418662751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_04_Computational_Graph.coverage" NAME="lesson-04-Computational-Graph Coverage Results" MODIFIED="1596546977019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-04" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$1_split_dataset_catdog.coverage" NAME="1_split_dataset-catdog Coverage Results" MODIFIED="1596620633161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-06" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_03_Linear_Regression.coverage" NAME="lesson-03-Linear-Regression Coverage Results" MODIFIED="1596548965630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-03" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_05_Logistic_Regression.coverage" NAME="lesson-05-Logistic-Regression Coverage Results" MODIFIED="1596612282612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-05" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$1_split_dataset.coverage" NAME="1_split_dataset Coverage Results" MODIFIED="1596615693530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-06" />
-    <SUITE FILE_PATH="coverage/Hello_Pytorch$transforms_methods_2.coverage" NAME="transforms_methods_2 Coverage Results" MODIFIED="1596677554074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lesson/lesson-09" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_04_Computational_Graph.coverage" NAME="lesson-04-Computational-Graph Coverage Results" MODIFIED="1596546977019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-04" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$1_split_dataset_catdog.coverage" NAME="1_split_dataset-catdog Coverage Results" MODIFIED="1596620633161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-06" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_03_Linear_Regression.coverage" NAME="lesson-03-Linear-Regression Coverage Results" MODIFIED="1596548965630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-03" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$lesson_05_Logistic_Regression.coverage" NAME="lesson-05-Logistic-Regression Coverage Results" MODIFIED="1596612282612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-05" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$1_split_dataset.coverage" NAME="1_split_dataset Coverage Results" MODIFIED="1596615693530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-06" />
+    <SUITE FILE_PATH="coverage/Hello_Pytorch$transforms_methods_2.coverage" NAME="transforms_methods_2 Coverage Results" MODIFIED="1596677554074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson-09" />
   </component>
 </project>
