@@ -15,8 +15,8 @@ def makedir(new_dir):
 
 if __name__ == '__main__':
 
-    dataset_dir = os.path.join(BASE_DIR, "..", "data", "RMB_data")
-    split_dir = os.path.join(BASE_DIR, "..", "data", "rmb_split")
+    dataset_dir = os.path.join(BASE_DIR, "..", "..", "data", "RMB_data")
+    split_dir = os.path.join(BASE_DIR, "..", "..", "data", "rmb_split")
     train_dir = os.path.join(split_dir, "train")
     valid_dir = os.path.join(split_dir, "valid")
     test_dir = os.path.join(split_dir, "test")

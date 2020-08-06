@@ -38,7 +38,7 @@ log_interval = 10
 val_interval = 1
 
 # ============================ step 1/5 数据 ============================
-split_dir = os.path.join(BASE_DIR, "..", "data", "rmb_split")
+split_dir = os.path.join(BASE_DIR, "..", "..", "data", "rmb_split")
 if not os.path.exists(split_dir):
     raise Exception(r"数据 {} 不存在, 回到lesson-06\1_split_dataset.py生成数据".format(split_dir))
 train_dir = os.path.join(split_dir, "train")
