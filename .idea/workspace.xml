@@ -277,9 +277,10 @@
     </state>
     <state x="397" y="191" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1596705547876" />
     <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1596418171637" />
-    <state x="573" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1596416966690">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="573" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1596705563224">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="573" y="389" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1596705563224" />
     <state x="573" y="404" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1596416966690" />
     <state x="1075" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1596510368636">
       <screen x="0" y="0" width="1792" height="1120" />
